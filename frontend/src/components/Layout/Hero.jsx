@@ -19,7 +19,7 @@ const Hero = () => {
             Explore our vacation outfits with our fast world wide shipping
           </p>
           <Link
-            to="#"
+            to="/collections/all"
             className="inline-block bg-gradient-to-r from-white to-gray-200 text-gray-900 px-10 py-4 rounded-full text-xl font-bold shadow-lg hover:from-pink-200 hover:to-yellow-100 hover:scale-105 transition-all duration-200 animate-fade-in delay-200"
           >
             Shop Now
