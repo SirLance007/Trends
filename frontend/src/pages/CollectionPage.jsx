@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaFilter } from "react-icons/fa";
-import FilterSideBar from "../components/Products/FilterSideBar";
+import FilterSideBar from "../components/Products/FilterSidebar";;
 import { useRef } from "react";
 import SortOptions from "../components/Products/SortOptions";
 import ProductGrid from "../components/Products/ProductGrid";
